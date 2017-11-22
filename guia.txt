@@ -1,0 +1,5 @@
+1. creado
+2. configrar variables 
+3. git add .
+4. git commit -a -m "mensaje para saber que se echo"
+5. git push origin master
